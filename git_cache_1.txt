@@ -1,1 +1,2 @@
 without git cache if edited
+Now we test git revert multiple commit
